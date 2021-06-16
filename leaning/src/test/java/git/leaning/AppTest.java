@@ -10,6 +10,6 @@ import junit.framework.TestSuite;
 public class AppTest 
 {
     public static void main(String[] args) {
-		//code dummy code
+		//day2
 	}
 }
